@@ -1,0 +1,2 @@
+# ignore sym links (noted as .txt files)
+*.txt
